@@ -1,0 +1,20 @@
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>학교생활 도우미 챗봇</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div id="chat-log">
+            <div class="bot-message">안녕하세요! 무엇을 도와드릴까요?</div>
+        </div>
+        <form id="user-input-form">
+            <input type="text" id="user-input" placeholder="질문을 입력하세요...">
+            <button type="submit">전송</button>
+        </form>
+    </div>
+
+    </body>
+</html>
